@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Guess Game</string>
+
+    <string-array name="range">
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>150</item>
+    </string-array>
+
+    <string-array name="guess">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+</resources>
